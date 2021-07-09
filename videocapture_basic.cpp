@@ -53,3 +53,4 @@ int main(int, char**)
     // the camera will be deinitialized automatically in VideoCapture destructor
     return 0;
 }
+
